@@ -1,0 +1,128 @@
+ID,Grupo,Edad,Frecuencia_Cardiaca_lpm,Presion_Sistolica_mmHg,Presion_Diastolica_mmHg,Frecuencia_Respiratoria_rpm,Saturacion_Oxigeno_pct,Horas_Sueno,Ocupacion,Color_Ojos,Num_Hermanos
+1,Diabetes_Reciente,51,64.9,135.3,104.4,14.4,98.4,6.3,Técnico,Verde,4
+2,Diabetes_Reciente,48,86.2,139.7,78.8,18.2,98.2,7,Contador,Café,5
+3,Diabetes_Reciente,57,80.2,141.6,80.5,18,97.7,6.2,Técnico,Negro,0
+4,Diabetes_Reciente,59,80.9,158.4,89,15.1,96.3,4.5,Ingeniero,Café,4
+5,Diabetes_Reciente,55,71.7,145.7,92.1,15.8,96.7,5.4,Maestro,Café,5
+6,Diabetes_Reciente,52,92.4,136,102,18.5,98.1,7.4,Ama de casa,Negro,3
+7,Diabetes_Reciente,57,81.8,139.2,97.4,13.1,96.1,7.3,Abogado,Negro,4
+8,Diabetes_Reciente,49,84.5,125.5,91.8,16.7,97.6,5.9,Técnico,Negro,0
+9,Diabetes_Reciente,51,84.9,124.5,88.1,19.9,98.3,6.7,Contador,Negro,5
+10,Diabetes_Reciente,54,87.8,116.2,92.3,19.9,97.6,8.7,Ama de casa,Avellana,5
+11,Diabetes_Reciente,47,79.9,121.3,81.7,12.1,97,6.2,Comerciante,Negro,5
+12,Diabetes_Reciente,51,81.8,141.4,83.8,14.5,96.8,6.2,Comerciante,Café,3
+13,Diabetes_Reciente,55,82.7,125.9,75.6,16.3,98.2,6.4,Médico,Verde,4
+14,Diabetes_Reciente,55,86.7,139.8,84.4,13.4,97.9,6.7,Abogado,Café,3
+15,Diabetes_Reciente,52,81,148,92.7,14.7,97.3,5.9,Ingeniero,Café,1
+16,Diabetes_Reciente,49,81.8,137.1,84.5,15.7,98.4,6.7,Contador,Café,1
+17,Diabetes_Reciente,48,76.8,141,80.6,18.8,98.2,4.5,Maestro,Café,4
+18,Diabetes_Reciente,52,76.6,126,83.5,15.9,98.9,6.5,Maestro,Avellana,3
+19,Diabetes_Reciente,52,88.6,133.9,91.1,16.4,98,6.2,Contador,Verde,0
+20,Diabetes_Reciente,47,93.1,149.7,84.2,17,97.4,6,Enfermero,Negro,5
+21,Diabetes_Reciente,50,79.4,123.8,91.9,17.1,97.4,5.8,Ingeniero,Café,5
+22,Diabetes_Reciente,49,84.6,144.5,76.8,16.1,96,5.7,Ama de casa,Café,4
+23,Diabetes_Reciente,46,73.6,152.3,79.9,13.6,97.6,5.5,Técnico,Café,1
+24,Diabetes_Reciente,52,79.1,139.6,82.5,17.6,97.5,4.1,Enfermero,Café,1
+25,Diabetes_Reciente,56,78.9,118.2,76.8,16.9,96.4,6,Técnico,Negro,5
+26,Diabetes_Reciente,58,92.7,138.3,106.6,13.8,97.5,7.2,Técnico,Negro,4
+27,Diabetes_Reciente,50,84.3,134.2,78.3,14.6,98.6,5.9,Enfermero,Negro,3
+28,Diabetes_Reciente,46,72.2,139.7,92.4,17.8,96.9,6.8,Médico,Café,1
+29,Diabetes_Reciente,60,66.8,142.4,81.3,17.2,96.7,5.2,Comerciante,Avellana,3
+30,Diabetes_Reciente,56,74.7,127.2,82.4,14.6,98.4,5,Técnico,Negro,1
+31,Diabetes_Reciente,49,83.2,126.6,88.1,15.5,98,5.5,Enfermero,Negro,1
+32,Diabetes_Reciente,45,84.3,133.5,75.8,15.7,99.9,5.3,Enfermero,Negro,2
+33,Diabetes_Reciente,56,87.2,125.3,81.4,17.2,96.4,5.1,Administrativo,Café,1
+34,Diabetes_Reciente,54,69.1,195,85,18.5,98.1,6.6,Médico,Café,0
+35,Diabetes_Reciente,50,86,133.9,80.1,16.1,97.8,7.8,Abogado,Café,4
+36,Diabetes_Cronica,57,97.8,169.8,88.2,18.6,97.8,6,Médico,Café,3
+37,Diabetes_Cronica,48,77.7,152.9,93.7,18.4,96.4,6.2,Técnico,Café,4
+38,Diabetes_Cronica,60,100.4,149.1,88.2,21.2,97.9,4.3,Enfermero,Café,3
+39,Diabetes_Cronica,52,80.2,149,87.6,19.2,95.8,3.8,Administrativo,Verde,4
+40,Diabetes_Cronica,60,78.1,144.9,84.8,16.7,99.4,5.8,Comerciante,Negro,4
+41,Diabetes_Cronica,51,81.4,162.2,104.2,20.7,96.6,5,Ingeniero,Negro,4
+42,Diabetes_Cronica,46,103.6,141.9,94.9,16.5,98.8,5.8,Médico,Café,3
+43,Diabetes_Cronica,45,87.7,131.7,93.7,16.7,96.8,4.2,Enfermero,Azul,3
+44,Diabetes_Cronica,56,92.2,129,85,16.3,97.9,3.9,Maestro,Café,4
+45,Diabetes_Cronica,60,86.5,148.9,90.1,16.1,96.8,5.7,Abogado,Verde,1
+46,Diabetes_Cronica,60,87.3,160.7,84.1,18.7,98.3,5.2,Técnico,Café,2
+47,Diabetes_Cronica,55,84,150.8,88.1,17.5,97.3,3.4,Administrativo,Café,2
+48,Diabetes_Cronica,48,88.4,144.2,82.3,11,97.9,6.8,Contador,Negro,2
+49,Diabetes_Cronica,52,92,153.5,104.7,17.5,97.5,4.2,Técnico,Café,3
+50,Diabetes_Cronica,56,101.4,150.2,85.9,17,96.4,8.1,Maestro,Negro,3
+51,Diabetes_Cronica,46,73,157.9,85,19.8,97.9,4.9,Abogado,Negro,1
+52,Diabetes_Cronica,47,100.9,163.9,81.4,16.9,97.1,5.9,Maestro,Café,2
+53,Diabetes_Cronica,56,92.2,136.5,85.8,23.1,98.3,7.1,Comerciante,Azul,2
+54,Diabetes_Cronica,45,85.1,119.9,88,20.8,97.3,7,Médico,Café,4
+55,Diabetes_Cronica,45,83.6,143.8,91.6,17.2,97.4,7.5,Administrativo,Negro,3
+56,Diabetes_Cronica,57,96.3,135.8,86.8,20.3,98.8,4,Ama de casa,Avellana,2
+57,Diabetes_Cronica,47,89.8,158,79.2,19.1,99.4,4.4,Médico,Negro,5
+58,Diabetes_Cronica,55,75.7,139.3,79.9,18.5,98.1,5.7,Ama de casa,Café,1
+59,Diabetes_Cronica,49,90.9,125.5,97.4,19.6,97.3,6.3,Abogado,Avellana,5
+60,Diabetes_Cronica,56,97.2,141.1,91,18.1,97.2,5.5,Enfermero,Negro,5
+61,Diabetes_Cronica,47,94.9,130.1,97.2,18.5,96.8,3.9,Contador,Café,1
+62,Diabetes_Cronica,45,83,167.1,98.2,19.6,97,6,Ingeniero,Café,5
+63,Diabetes_Cronica,45,77.3,153.7,93.2,22.1,97.3,5.3,Médico,Verde,2
+64,Diabetes_Cronica,52,85.4,155.8,82.1,18.5,99.1,5.3,Administrativo,Negro,3
+65,Diabetes_Cronica,54,114,154.4,93.5,17.1,88.5,3.2,Maestro,Negro,1
+66,Diabetes_Cronica,55,75.6,158.1,103.2,13.9,96.5,6.3,Administrativo,Azul,4
+67,Diabetes_Cronica,56,81.3,161.6,88.4,21.9,97.5,5.6,Abogado,Verde,5
+68,Diabetes_Cronica,57,91.1,141.5,94.7,17.5,97.6,7.3,Ama de casa,Café,1
+69,Diabetes_Cronica,57,87,131,91.9,19.1,97.5,5.4,Maestro,Café,0
+70,Diabetes_Cronica,56,86.4,137.8,103,21.8,98.1,6.1,Ingeniero,Café,0
+71,Diabetes_Cronica,59,104.2,147.5,86.6,18.5,97.6,6.3,Ingeniero,Negro,3
+72,Diabetes_Cronica,58,81.2,117.2,101.2,17.6,98.1,3.8,Médico,Café,2
+73,Diabetes_Cronica,46,87.9,161.7,89,20.8,96.9,8.1,Abogado,Negro,3
+74,Diabetes_Cronica,57,89.6,125.2,86.4,18.9,98.9,5.1,Enfermero,Verde,3
+75,Diabetes_Cronica,47,81.6,155.2,92.9,19.2,97.7,6,Abogado,Azul,3
+76,Diabetes_Cronica,46,76.5,146,94.7,15,97.8,6.1,Ama de casa,Café,3
+77,Diabetes_Cronica,47,90.2,151.4,107.3,20.4,96.9,4.7,Administrativo,Verde,4
+78,Control,52,76.9,118.1,79.5,17.7,98.7,7.6,Comerciante,Negro,2
+79,Control,49,72.4,117,83.9,16.9,96.7,6.8,Maestro,Café,3
+80,Control,52,64.3,125.7,88,15.9,98.3,7.6,Comerciante,Avellana,3
+81,Control,59,64.2,123.6,84.1,12.7,97.3,8,Enfermero,Café,5
+82,Control,54,70,117.1,67,16.9,97.5,7.8,Ingeniero,Negro,1
+83,Control,45,82,129.3,70.3,16.4,98,7.5,Médico,Negro,5
+84,Control,56,70.4,111.4,74.3,16.5,96.6,8,Abogado,Café,1
+85,Control,59,63,124.9,78.2,13.4,97.8,8,Administrativo,Avellana,2
+86,Control,54,70.5,124.7,81.1,13.8,97.6,8.2,Administrativo,Negro,0
+87,Control,53,70.4,117.5,73.6,18.1,97.9,7.6,Comerciante,Negro,3
+88,Control,50,142,122.6,79.1,15.9,97.7,7,Enfermero,Verde,1
+89,Control,47,71.7,110,73.5,17.4,99.5,7.2,Ingeniero,Avellana,5
+90,Control,57,70.6,127.4,74.3,16.1,97,8.1,Ama de casa,Avellana,2
+91,Control,58,76.2,118.5,69.6,16.1,97.1,6.4,Administrativo,Negro,1
+92,Control,52,83.1,115.8,72.5,17.9,97,7.4,Ingeniero,Negro,5
+93,Control,53,78.8,128.4,69.9,15,97.1,6.8,Médico,Café,3
+94,Control,50,70.4,114.4,72.1,16.2,97,7.1,Técnico,Café,3
+95,Control,55,65.4,108.7,84.3,15.1,98.5,8.1,Enfermero,Negro,4
+96,Control,51,87.4,107.5,72.3,15.1,98.6,7.3,Maestro,Café,0
+97,Control,45,72.4,124.8,93.8,15.4,97,7.1,Ingeniero,Negro,4
+98,Control,58,72.1,109.8,81,16.4,96.8,6,Médico,Café,2
+99,Control,49,71.9,134,79.1,15,97.9,7.7,Ama de casa,Café,1
+100,Control,49,73.2,103.3,72.8,18.5,97.1,7.6,Abogado,Verde,2
+101,Control,54,71.1,133.6,82.2,14.2,98,8.8,Maestro,Avellana,5
+102,Control,58,68.6,121.7,74.5,15.6,97.7,6.9,Abogado,Café,3
+103,Control,48,68.7,119.2,78.7,15.1,96.3,7.3,Ama de casa,Negro,4
+104,Control,50,71.8,115.6,93.4,18.9,98.7,7.3,Médico,Azul,4
+105,Control,51,68.7,123.2,77.4,16.4,98.9,8.4,Administrativo,Café,4
+106,Control,53,67.7,119.7,84.9,18.1,97,7,Abogado,Verde,2
+107,Control,45,72.6,128.8,73.8,13,97.2,7.3,Maestro,Café,3
+108,Control,59,70.5,120.9,77.8,16.5,97.7,7.6,Comerciante,Café,1
+109,Control,50,81,121.2,88.6,17.8,97.8,7.2,Contador,Avellana,5
+110,Control,51,56.1,117.1,74.2,16.2,98,6.7,Ingeniero,Café,1
+111,Control,47,78.5,119.5,88.9,18.1,99.1,7.3,Administrativo,Negro,2
+112,Control,52,79.5,122.5,82.2,15,97.4,8,Abogado,Verde,5
+113,Control,59,59.6,106.3,74.6,18.8,96.9,6.3,Técnico,Café,4
+114,Control,49,69.9,109.2,81.8,20.6,96.4,7.2,Ingeniero,Negro,0
+115,Control,59,69.8,125.9,83.8,15.3,96.9,6.5,Comerciante,Avellana,2
+116,Control,53,63.6,121.4,81.7,15.1,97.5,8.1,Ama de casa,Café,2
+117,Control,49,67.3,118.5,68.6,18.9,98.9,5.9,Contador,Azul,3
+118,Control,53,65.3,120.1,73.6,19.2,97.1,6.7,Médico,Negro,1
+119,Control,54,82.5,122.8,76.5,15,97.7,7.4,Comerciante,Negro,2
+120,Control,48,77.6,115.7,77.6,15.2,97.5,8.4,Comerciante,Negro,2
+121,Control,53,79.6,113.8,81.7,15.4,98.5,7,Ama de casa,Café,4
+122,Control,49,76.3,121.6,79.1,13.3,99.5,2,Enfermero,Avellana,4
+123,Control,54,65.2,112.2,70,14.2,97.1,8.6,Ama de casa,Avellana,5
+124,Control,53,68.9,123.3,80.3,14,97.1,5.9,Enfermero,Negro,0
+125,Control,47,74.9,106.4,81.7,14.5,98.3,5.3,Enfermero,Verde,3
+126,Control,59,64.7,128.2,81.4,15.9,98,7.5,Administrativo,Negro,0
+127,Control,48,76.3,123.8,84.5,16.5,99,6.7,Administrativo,Negro,5
